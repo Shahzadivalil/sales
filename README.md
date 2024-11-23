@@ -28,7 +28,7 @@ The dashboard contains:
 Bar Charts: Representing profit and revenue breakdowns.
 Profit Margins: Shown as a percentage for easy comparison.
 Yearly Comparison: Visualizing increases and decreases in sales over two years.
-Insights for Future Planning
+## Insights for Future Planning
 Focus on high-profit clients like STS OMNA for sustained growth.
 Identify strategies to improve profit margins for CCED.
 Maintain momentum in sales growth seen between 2021 and 2022.
